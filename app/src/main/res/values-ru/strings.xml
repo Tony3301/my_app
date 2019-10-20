@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">MoneyJet</string>
+    <string name="title_home">Сегодня</string>
+    <string name="title_dashboard">Даты</string>
+    <string name="title_notifications">Гид</string>
+    <string name="title_activity_settings">Настройки</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="expenses">Расходы</string>
+    <string name="addTransaction">Добавить транзакцию</string>
+    <string name="_1_23">1.23</string>
+    <string name="description">Описание</string>
+    <string name="cancel">Отмена</string>
+    <string name="total">В сумме:</string>
+    <string name="totalHome">В СУММЕ:</string>
+    <string name="total_expens">Сумма расходов:</string>
+    <string name="total_income">Сумма доходов:</string>
+    <string name="daily_diargam">Диаграмма за сегодня</string>
+    <string name="add_category">Добавить категорию</string>
+    <string name="name_of_category">Название категории:</string>
+    <string name="create_category">Новая категорию</string>
+    <string name="new_categoty">новая категория 1</string>
+    <string name="select_color">Выберите цвет:</string>
+    <string name="or_income">Доход</string>
+    <string name="orExpenses">Расход</string>
+    <string name="your_balance">Ваш баланс</string>
+    <string name="language">Язык</string>
+    <string name="lang">Язык</string>
+    <string name="bal">Баланс</string>
+    <string name="update_balance">Обновить баланс:</string>
+    <string name="tutorial">Гид</string>
+    <string name="apply">Применить</string>
+    <string name="space" />
+    <string name="pick_a_color">Выберите цвет</string>
+    <string name="_1_add_category">1. Добавить категорию</string>
+    <string name="to_add_categ">Чтобы добавить новую категорию - нажмите на знак \'+\' в разделе категориии.</string>
+    <string name="_2_add_transaction">2. Добавить транзакцию</string>
+    <string name="to_add_trans">Чтобы добавить операцию - нажмите на соответствующую категорию. В новом окне обязательно введите сумму, описание - не обязательно</string>
+    <string name="_3_delete_category">3. Удалить категорию</string>
+    <string name="how_to_del">Нажмите и удерживайте на соответствующей категории, пока не появится контекстное меню</string>
+    <string name="_4_settings">4. Настройки</string>
+    <string name="how_to_settings">Здесь Вы можете изменить язык и обновить баланс. Введите ваш баланс, чтобы программа считала корректно. Если вы хотите лишь изменить язык, то оставьте поле Обновить баланспустым.</string>
+    <string name="_5_send_daily_statictic">5. Отправить дневную статистику</string>
+    <string name="how_to_share">Нажмите на кнопку Поделиться, которая находится в верху</string>
+    <string name="_6_you_can_rotate_diagramm">6. Вращение диаграммы</string>
+    <string name="how_to_rotate">Сделайте свайп на диаграмме</string>
+    <string name="_7_look_for_incomes_expenses">7. Просмотр доходов(расходов)</string>
+    <string name="how_to_change_diagram">Нажмите на текст в центре диаграммы</string>
+</resources>

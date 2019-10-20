@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">MoneyJet</string>
+    <string name="title_home">Today</string>
+    <string name="title_dashboard">Dates</string>
+    <string name="title_notifications">Tutorial</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="expenses">Expenses</string>
+    <string name="addTransaction">Add Transaction</string>
+    <string name="_1_23">1.23</string>
+    <string name="description">Description</string>
+    <string name="cancel">Cancel</string>
+    <string name="total">Total</string>
+    <string name="totalHome">TOTAL:</string>
+    <string name="total_expens">Total expens:</string>
+    <string name="total_income">Total income:</string>
+    <string name="daily_diargam">Dayli Diargam</string>
+    <string name="add_category">Add Category</string>
+    <string name="name_of_category">Name of category:</string>
+    <string name="create_category">Create Category</string>
+    <string name="new_categoty">new categoty 1</string>
+    <string name="select_color">Select color:</string>
+    <string name="or_income">Income</string>
+    <string name="orExpenses">Expenses</string>
+    <string name="your_balance">Your\'s balance</string>
+    <string name="language">Language</string>
+    <string name="lang">Lang</string>
+    <string name="bal">Balance</string>
+    <string name="update_balance">Update balance:</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="apply">Apply</string>
+    <string name="space" />
+    <string name="pick_a_color">Pick a color</string>
+    <string name="_1_add_category">1. Add category</string>
+    <string name="to_add_categ">To add a new category - click on the \'+ \' sign in the category section.</string>
+    <string name="_2_add_transaction">2. Add transaction</string>
+    <string name="to_add_trans">To add an operation, click on the appropriate category.
+         In the new window, be sure to enter the amount, a description - optional</string>
+    <string name="_3_delete_category">3. Delete category</string>
+    <string name="how_to_del">Press and hold on the appropriate category until the context menu appears.</string>
+    <string name="_4_settings">4. Settings</string>
+    <string name="how_to_settings">Here you can change the language and update the balance. Enter your balance for the program to count correctly.
+         If you only want to change the language, leave the Update balance box blank.</string>
+    <string name="_5_send_daily_statictic">5. Send daily statictic</string>
+    <string name="how_to_share">Click the Share button at the top.</string>
+    <string name="_6_you_can_rotate_diagramm">6. You can rotate diagramm</string>
+    <string name="how_to_rotate">Make a swipe on the chart</string>
+    <string name="_7_look_for_incomes_expenses">7. Look for incomes(expenses)</string>
+    <string name="how_to_change_diagram">Click on the text in the center of the chart</string>
+</resources>
